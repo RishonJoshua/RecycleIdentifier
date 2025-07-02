@@ -1,0 +1,6 @@
+apples
+bananas
+bottles
+cups
+phones
+pizza
